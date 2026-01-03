@@ -34,7 +34,7 @@ const Navigation = () => {
       <div className="flex w-full max-w-7xl items-center justify-between px-4 py-4 md:px-8 ">
         <div className="relative z-10" aria-label="logo">
           <Link href="/" className="text-xl font-extrabold text-color-10">
-            &lt;OBA/&gt;
+            &lt;OLA/&gt;
           </Link>
         </div>
 
@@ -67,7 +67,7 @@ const Navigation = () => {
           <div className="h-[24px] w-[1px] bg-color-2"></div>
           <ModeToggle />
           <a
-            href="/Obadun_Adewale_Resume.pdf"
+            href="/Adeagbo_Emmanuel_Frontend_Developer_Resume.pdf"
             download
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-color-10 px-4 py-1.5 text-base leading-normal text-color-1 hover:bg-color-7"
           >

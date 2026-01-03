@@ -9,16 +9,18 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "my portfolio",
-  description: "A simple showcase of my work and skills as a software developer.",
+  title: "Adeagbo Emmanuel | Frontend Developer",
+  description:
+    "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
   openGraph: {
-    title: "my portfolio",
-    description: "A simple showcase of my work and skills as a software developer.",
-    url: "https://my-portfolio-xcsq.vercel.app/",
-    siteName: "my portfolio",
+    title: "Adeagbo Emmanuel | Frontend Developer",
+    description:
+      "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
+    url: "https://adeagbo-emmanuel.vercel.app",
+    siteName: "Adeagbo Emmanuel Portfolio",
     images: [
       {
-        url: "https://my-portfolio-xcsq.vercel.app/images/portfolio-pics.png",
+        url: "https://adeagbo-emmanuel.vercel.app/images/portfolio-pics.png",
         width: 1200,
         height: 630,
       },
@@ -28,9 +30,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "my portfolio",
-    description: "A simple showcase of my work and skills as a software developer.",
-    images: ["https://my-portfolio-xcsq.vercel.app/images/portfolio-pics.png"],
+    title: "Adeagbo Emmanuel | Frontend Developer",
+    description:
+      "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
+    images: ["https://adeagbo-emmanuel.vercel.app/images/image.png"],
   },
   robots: {
     index: true,
@@ -40,13 +43,12 @@ export const metadata: Metadata = {
       index: true,
       follow: true,
       noimageindex: false,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
 };
-
 
 export default function RootLayout({
   children,
@@ -55,7 +57,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="light scroll-smooth">
-      <body className={`${inter.variable} antialiased relative`} >
+      <body className={`${inter.variable} relative antialiased`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
