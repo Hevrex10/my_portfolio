@@ -27,11 +27,12 @@ const Navigation = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-
-
   return (
-    <header ref={headerRef} className="fixed z-50 left-0 top-0 flex w-full items-center justify-center bg-none transition-all duration-150 ease-in-out">
-      <div className="flex w-full max-w-7xl items-center justify-between px-4 py-4 md:px-8 ">
+    <header
+      ref={headerRef}
+      className="fixed left-0 top-0 z-50 flex w-full items-center justify-center bg-none transition-all duration-150 ease-in-out"
+    >
+      <div className="flex w-full max-w-7xl items-center justify-between px-4 py-4 md:px-8">
         <div className="relative z-10" aria-label="logo">
           <Link href="/" className="text-xl font-extrabold text-color-10">
             &lt;OLA/&gt;

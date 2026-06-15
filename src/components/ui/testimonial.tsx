@@ -113,7 +113,7 @@ const Testimonial = () => {
                         <div>
                             <p className='text-color-6 text-base font-normal font-inter leading-normal'>
                                 “Job well done! I am really impressed. He is very very good 
-                                at what he does:) I would recommend Oba and will rehire in 
+                                at what he does:) I would recommend ola and will rehire in 
                                 the future for Frontend development.”
                             </p>
                         </div>
@@ -156,8 +156,8 @@ const Testimonial = () => {
                         </div>
                         <div>
                             <p className='text-color-6 text-base font-normal font-inter leading-normal'>
-                                “Oba was extremely easy and pleasant to work with and 
-                                he truly cares about the project being a success. Oba 
+                                “ola was extremely easy and pleasant to work with and 
+                                he truly cares about the project being a success. ola 
                                 has a high level of knowledge and was able to work on my 
                                 MERN stack application without any issues.”
                             </p>

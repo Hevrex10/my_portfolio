@@ -205,7 +205,7 @@ const Hero = () => {
           >
             <div className="absolute left-0 top-[20px] z-10 h-72 w-[100%] max-w-72 border-8 border-default bg-color-3 md:top-[28px] md:h-80 md:w-72"></div>
             <Image
-              src="/adeagbo_emmanuel.png"
+              src="/adeagbo_Emmanuel.png"
               alt="picture of Adeagbo Emmanuel"
               width={288}
               height={384}
