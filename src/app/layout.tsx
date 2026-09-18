@@ -9,13 +9,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Adeagbo Emmanuel | Frontend Developer",
+  title: "Adeagbo Emmanuel | FULL STACK Developer",
   description:
-    "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
+    "Portfolio of Adeagbo Emmanuel, a FULL STACK developer specializing in React and Next.js.",
   openGraph: {
-    title: "Adeagbo Emmanuel | Frontend Developer",
+    title: "Adeagbo Emmanuel | FULL STACK Developer",
     description:
-      "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
+      "Portfolio of Adeagbo Emmanuel, a FULL STACK developer specializing in React and Next.js.",
     url: "https://adeagbo-emmanuel.vercel.app",
     siteName: "Adeagbo Emmanuel Portfolio",
     images: [
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Adeagbo Emmanuel | Frontend Developer",
+    title: "Adeagbo Emmanuel | FULL STACK Developer",
     description:
-      "Portfolio of Adeagbo Emmanuel, a frontend developer specializing in React and Next.js.",
+      "Portfolio of Adeagbo Emmanuel, a FULL STACK developer specializing in React and Next.js.",
     images: ["https://adeagbo-emmanuel.vercel.app/images/image.png"],
   },
   robots: {
