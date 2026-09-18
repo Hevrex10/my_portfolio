@@ -187,6 +187,17 @@ const Skills = () => {
                 Next.js
               </p>
             </div>
+            <div
+              ref={skills4Ref}
+              className="flex flex-col items-center justify-center"
+            >
+              <div className="relative h-16 w-16">
+                <Image src="/images/icon-express.svg" fill alt="nextjs icon" />
+              </div>
+              <p className="font-inter text-base font-normal leading-normal text-color-6">
+                Next.js
+              </p>
+            </div>
 
             <div
               ref={skills5Ref}
@@ -200,19 +211,7 @@ const Skills = () => {
               </p>
             </div>
 
-         
-
-            <div
-              ref={skills7Ref}
-              className="flex flex-col items-center justify-center"
-            >
-              <div className="relative h-16 w-16">
-                <Image src="/images/icon-nest.svg" fill alt="Nest.js icon" />
-              </div>
-              <p className="font-inter text-base font-normal leading-normal text-color-6">
-                Nest.js
-              </p>
-            </div>
+        
 
             <div
               ref={skills8Ref}

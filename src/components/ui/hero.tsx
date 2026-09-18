@@ -103,7 +103,7 @@ const Hero = () => {
 
   const text = "Hi, I’m OLA 👋";
   const subHeadingText =
-    "I’m a front end developer. I love building things that live on the internet. My goal is to create a seamless experience for users while solving complex problems.";
+    "I’m a FULL STACK developer. I love building things that live on the internet. My goal is to create a seamless experience for users while solving complex problems.";
 
   return (
     <section

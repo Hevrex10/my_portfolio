@@ -68,7 +68,7 @@ const Navigation = () => {
           <div className="h-[24px] w-[1px] bg-color-2"></div>
           <ModeToggle />
           <a
-            href="/Adeagbo_Emmanuel_Frontend_Developer_Resume.pdf"
+            href="/ADEAGBO_EMMANUEL_Resume.docx"
             download
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-color-10 px-4 py-1.5 text-base leading-normal text-color-1 hover:bg-color-7"
           >

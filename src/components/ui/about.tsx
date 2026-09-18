@@ -137,7 +137,7 @@ const About = () => {
             >
               <div className="relative top-2 z-10 h-[480px] w-[100%] max-w-96 border-8 border-default bg-color-3 md:top-6"></div>
               <Image
-                src="/images/my-picture.jpg"
+                src="/meee.PNG"
                 alt="hero image"
                 width={288}
                 height={384}

@@ -167,7 +167,7 @@ const Work = () => {
               </div>
             </div>
             <div>
-              <Link href={"https://rex-commerce.vercel.app/"}>
+              <Link href={"https://hevrex-commerce.vercel.app/"}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="32"
@@ -216,7 +216,6 @@ const Work = () => {
               </p>
             </div>
             <div className="flex flex-wrap gap-2">
-            
               <div className="inline-flex items-center justify-center rounded-xl bg-color-3 px-5 py-1">
                 <p className="justify-start font-inter text-sm font-medium leading-tight text-color-6">
                   React
