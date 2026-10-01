@@ -107,7 +107,7 @@ const Experience = () => {
                             <p className="text-2xl text-color-9">I38 Agency</p>
                         </div>
                         <div className="w-full order-3 lg:order-none inline-flex flex-col justify-start items-start gap-4">
-                            <p className="justify-start text-color-9 text-xl font-semibold font-inter leading-7">Frontend Engineer</p>
+                            <p className="justify-start text-color-9 text-xl font-semibold font-inter leading-7">FULLSTACK Engineer</p>
                             <ul className="list-disc list-inside self-stretch justify-start text-color-600 text-base font-normal font-inter leading-normal">
                                 <li>Template Development: Develop reusable templates and layouts
                                      that support fast page creation and consistent visual structure 
