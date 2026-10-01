@@ -176,8 +176,7 @@ const About = () => {
                   self-proclaimed developer
                 </span>
                 <span className="font-inter text-base font-normal leading-normal text-color-6">
-                  who specializes in front end development (React.js & React
-                  Native). I am very enthusiastic about bringing the technical
+                  who specializes in full stack development. I am very enthusiastic about bringing the technical
                   and visual aspects of digital products to life. User
                   experience, pixel perfect design, and writing clear, readable,
                   highly performant code matters to me.
